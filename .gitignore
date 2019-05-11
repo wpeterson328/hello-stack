@@ -1,3 +1,10 @@
+# Because this project is only meant for boot strapping projects
+# we don't want to keep package files
+
+package.json
+package-lock.json
+
+
 # Logs
 logs
 *.log
