@@ -3,3 +3,6 @@ clean:
 
 install:
 	bin/npm install
+
+run:
+	docker-compose up
