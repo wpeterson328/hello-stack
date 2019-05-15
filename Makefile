@@ -3,4 +3,4 @@ SHELL=/bin/bash
 
 
 build-node-base:
-	docker build -t node-base node
+	docker build -t node-base docker/node

@@ -4,7 +4,7 @@ hello-stack
 This provides some simple tooling to setup a node express development environment with docker
 
 
-* `docker pull node`
+* `make build-node-base`
 * `cp -r node/*  your_project directory`
 * replace your npm command with bin/npm
 * npm install express etc

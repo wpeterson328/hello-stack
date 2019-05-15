@@ -1,7 +1,7 @@
 version: "2"
 services:
   node:
-    image: "node:12"
+    image: "node-base"
     user: "node"
     working_dir: /home/node/app
     environment:
