@@ -5,7 +5,7 @@ This provides some simple tooling to setup a node express development environmen
 
 
 * `make build-node-base`
-* `cp -r node/*  your_project directory`
+* `cp -r node/*  your_project_directory`
 * replace your npm command with bin/npm
 * npm install express etc
 * setup express to bind to port 8081 on 0.0.0.0
